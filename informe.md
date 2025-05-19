@@ -84,6 +84,8 @@ npm start
 ## 9. Resultados esperados
 Acceso exitoso a http://localhost:3000
 
+(https://github.com/Edissonfierro/imagenpersonalizada/blob/main/local.jpg)
+
 Aplicación React contenida en Docker funcionando correctamente
 
 Backend simulado (http://localhost:3001) disponible
