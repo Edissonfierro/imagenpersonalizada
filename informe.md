@@ -71,3 +71,4 @@ npm start
  Coloco de esta manera ya que se me cerró el gitbash 
 ### Construcción de la imagen
 
+(https://github.com/Edissonfierro/imagenpersonalizada/blob/main/2.jpg)
