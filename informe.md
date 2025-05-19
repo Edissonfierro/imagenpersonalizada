@@ -72,3 +72,32 @@ npm start
 ### Construcción de la imagen
 
 (https://github.com/Edissonfierro/imagenpersonalizada/blob/main/2.jpg)
+
+ 
+### Ejecución del contenedor
+
+(https://github.com/Edissonfierro/imagenpersonalizada/blob/main/3.jpg)
+
+(https://github.com/Edissonfierro/imagenpersonalizada/blob/main/4.jpg)
+
+
+## 9. Resultados esperados
+Acceso exitoso a http://localhost:3000
+
+Aplicación React contenida en Docker funcionando correctamente
+
+Backend simulado (http://localhost:3001) disponible
+
+Comunicación entre frontend y backend lograda
+
+Contenedor suda-front activo (docker ps)
+
+
+## 10. Bibliografía
+Docker. (n.d.). Docker documentation. https://docs.docker.com/
+
+Vite. (n.d.). Vite documentation. https://vitejs.dev/
+
+MockAPI. (n.d.). Repositorio oficial. https://github.com/Daviddotcoms/mockAPI
+
+ 
