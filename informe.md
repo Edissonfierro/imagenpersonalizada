@@ -21,7 +21,7 @@ MockAPI es un backend simulado que expone rutas de prueba para que aplicaciones 
 - Conceptos de puertos, servicios y rutas
 - Estructura y ejecución de proyectos con Vite
 
----
+
 
 ## 5. Objetivos a alcanzar
 
@@ -33,7 +33,7 @@ MockAPI es un backend simulado que expone rutas de prueba para que aplicaciones 
 - Verificar que la app cargue correctamente en el navegador (`localhost:3000`).
 - Ejecutar el backend simulado (MockAPI) para que el frontend funcione correctamente.
 
----
+
 
 ## 6. Equipo necesario
 
@@ -42,7 +42,7 @@ MockAPI es un backend simulado que expone rutas de prueba para que aplicaciones 
 - Conexión a internet.
 - Navegador actualizado.
 
----
+
 
 ## 7. Material de apoyo
 
@@ -55,8 +55,6 @@ MockAPI es un backend simulado que expone rutas de prueba para que aplicaciones 
 ## 8. Procedimiento
 
 ### 1. Clonado de los repositorios
-
-
 
 (https://github.com/Edissonfierro/imagenpersonalizada/blob/main/1.jpg)
 
