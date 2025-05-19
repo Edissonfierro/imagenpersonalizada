@@ -56,8 +56,7 @@ MockAPI es un backend simulado que expone rutas de prueba para que aplicaciones 
 
 ### 1. Clonado de los repositorios
 
-git clone https://github.com/Daviddotcoms/suda-frontend-s6.git
-git clone https://github.com/Daviddotcoms/mockAPI.git
+
 
 (https://github.com/Edissonfierro/imagenpersonalizada/blob/main/1.jpg)
 
