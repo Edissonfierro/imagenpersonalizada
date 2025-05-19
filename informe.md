@@ -12,7 +12,6 @@ Docker es una plataforma que permite contenerizar aplicaciones, es decir, empaqu
 ### ¿Qué es MockAPI?
 MockAPI es un backend simulado que expone rutas de prueba para que aplicaciones frontend puedan interactuar con datos sin necesidad de un servidor real.
 
----
 
 ## 4. Conocimientos previos
 
@@ -58,5 +57,17 @@ MockAPI es un backend simulado que expone rutas de prueba para que aplicaciones 
 
 (https://github.com/Edissonfierro/imagenpersonalizada/blob/main/1.jpg)
 
+ejecutamos en front
 
- 
+npm install
+npm run dev
+Resultado: aplicación levantada en http://localhost:5173
+
+
+ejecutamos en mockAPI
+npm install
+npm start
+
+ Coloco de esta manera ya que se me cerró el gitbash 
+### Construcción de la imagen
+
